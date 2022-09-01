@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jeeva
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning swift/SwiftUI
+- 🌱 I’m currently learning Swift/SwiftUI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
