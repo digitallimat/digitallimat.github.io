@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Jeeva
+- 👋 Hi, I’m KJ
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning Swift/SwiftUI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 digitallimat/digitallimat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
