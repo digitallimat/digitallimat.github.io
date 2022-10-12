@@ -1,6 +1,6 @@
 - 👋 Hi, I’m KJ
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning Swift/SwiftUI
+- 🌱 I’m currently learning to Code
 
 
 <!---
