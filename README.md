@@ -1,4 +1,4 @@
-- 👋 Hi, I’m KJ
+- 👋 Hi, I’m Jeeva
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning to Code
 
